@@ -7,10 +7,11 @@ Fifth Message
 gandu shankar
 sede shankra
 
-<<<<<<< HEAD
 stashing
-=======
 custom commit message
 
+<<<<<<< HEAD
 >>>>>>> feature
 bot shankra
+=======
+>>>>>>> 9fd14c8 (staging)

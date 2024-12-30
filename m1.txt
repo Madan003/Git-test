@@ -7,4 +7,9 @@ Fifth Message
 gandu shankar
 sede shankra
 
+<<<<<<< HEAD
 stashing
+=======
+custom commit message
+
+>>>>>>> feature
